@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: /_pages/about.md/#about_publication
 
-  - title: "Talks"
-    url: /talks/    
+    # - title: "Talks"
+    #   url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /_pages/about.md/#about_teaching
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Education"
+    url: /_pages_about.md/#abhout_education
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+    #- title: "Blog Posts"
+    #  url: /year-archive/
+    #  
+    #- title: "CV"
+    #  url: /cv/
+    #  
+    #- title: "Guide"
+    #  url: /markdown/
