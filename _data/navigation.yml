@@ -1,16 +1,18 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /_pages/about.md/#about_publication
+  - title: "Education"
+    url: /#about_education
 
+  - title: "Publications"
+    url: /#about_publication
+
+  
     # - title: "Talks"
     #   url: /talks/    
 
   - title: "Teaching"
-    url: /_pages/about.md/#about_teaching
+    url: /#about_teaching
     
-  - title: "Education"
-    url: /_pages_about.md/#abhout_education
         
     #- title: "Blog Posts"
     #  url: /year-archive/
