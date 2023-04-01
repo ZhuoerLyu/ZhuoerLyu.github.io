@@ -12,7 +12,7 @@ My name is Zhuoer Lyu. I am currently a PhD stduent from [SEFCOM](https://sefcom
 My research interests are focused on data-driven security, particularly the integration of program analysis with machine learning techniques to solve security problems while maintaining generality and scalability. 
 Moreover, I am also interested in  exploring the development of trustworthy AI and adversarial machine learning, which have become increasingly significant in our current era of AI advancement.
 
-[Education](#about_education)
+Education
 ======
 
 B.Sc. in Electrical Engineering, Sichuan University, 2018
@@ -21,7 +21,7 @@ M.Sc. in Electrical Engineering, The Ohio State University, 2020
 
 Ph.D. in Computer Science, Arizona State University, 2025
 
-[Publication](#about_publication)
+Publication
 ======
 
 * One paper accepted at IEEE S&P 2023
@@ -31,7 +31,7 @@ Ph.D. in Computer Science, Arizona State University, 2025
   USENIX Security 2022 [pdf](https://www.usenix.org/system/files/sec22-suciu.pdf) [software](https://www.exploitability.app/)
 
 
-[Teaching](#about_teaching)
+Teaching
 ======
 
 * Fall 2022, CSE 365 Introduction to Information Assurance

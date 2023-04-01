@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Zhuoer Lyu"
-  avatar           : "profile.png"
+  avatar           : "profile.JPG"
   bio              : "PhD Student"
   location         : "Tempe, AZ"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=-nMPXR9prR8C&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/ZhuoerLyu"
+  github           : "ZhuoerLyu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/zhuoer-lyu-19041b15b/"
+  linkedin         : "zhuoer-lyu-19041b15b/"
   orcid            : 
   pinterest        :
   soundcloud       :

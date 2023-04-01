@@ -1,17 +1,17 @@
 # main links links
 main:
-  - title: "Education"
-    url: /#about-education
-
-  - title: "Publication"
-    url: /#about-publication
+        #  - title: "Education"
+        #    url: /#about-education
+        #
+        #  - title: "Publication"
+        #    url: /#about-publication
 
   
     # - title: "Talks"
     #   url: /talks/    
 
-  - title: "Teaching"
-    url: /#about-teaching
+        #  - title: "Teaching"
+        #    url: /#about-teaching
     
         
     #- title: "Blog Posts"
