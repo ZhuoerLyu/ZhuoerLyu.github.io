@@ -25,7 +25,7 @@ Publication
 ======
 
 * BEYOND PHISH: Toward Detecting Fraudulent e-Commerce Websites at Scale
-  Marzieh Bitaab, Haehyun Cho, Adam Oest, __Zhuoer Lyu__, Wei Wang, Jorij Abraham, Ruoyu Wang, Tiffany Bao, Yan Shoshitaishvili, Adam Doupé, Gail-Joon Ahn
+  Marzieh Bitaab, Haehyun Cho, Adam Oest, __Zhuoer Lyu__, Wei Wang, Jorij Abraham, Ruoyu Wang, Tiffany Bao, Yan Shoshitaishvili, Adam Doupé, Gail-Joon Ahn\
   Oakland 2023 [pdf](https://sefcom.asu.edu/publications/beyondphish-oakland23.pdf)
 
 * Expected Exploitability: Predicting the Development of Functional Vulnerability Exploits 
