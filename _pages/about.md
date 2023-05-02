@@ -15,16 +15,18 @@ Moreover, I am also interested in  exploring the development of trustworthy AI a
 Education
 ======
 
-B.Sc. in Electrical Engineering, Sichuan University, 2018
+Ph.D. in Computer Science, Arizona State University, 2025 (expected)
 
 M.Sc. in Electrical Engineering, The Ohio State University, 2020
 
-Ph.D. in Computer Science, Arizona State University, 2025 (expected)
+B.Sc. in Electrical Engineering, Sichuan University, 2018
 
 Publication
 ======
 
-* One paper accepted at IEEE S&P 2023
+* BEYOND PHISH: Toward Detecting Fraudulent e-Commerce Websites at Scale
+  Marzieh Bitaab, Haehyun Cho, Adam Oest, __Zhuoer Lyu__, Wei Wang, Jorij Abraham, Ruoyu Wang, Tiffany Bao, Yan Shoshitaishvili, Adam Doupé, Gail-Joon Ahn
+  Oakland 2023 [pdf](https://sefcom.asu.edu/publications/beyondphish-oakland23.pdf)
 
 * Expected Exploitability: Predicting the Development of Functional Vulnerability Exploits 
   Octavian Suciu, Connor Nelson, __Zhuoer Lyu__, Tiffany Bao, Tudor Dumitraş\
