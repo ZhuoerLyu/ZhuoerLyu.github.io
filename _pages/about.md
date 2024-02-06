@@ -9,8 +9,10 @@ redirect_from:
 Hello!
 
 My name is Zhuoer Lyu. I am currently a PhD student from [SEFCOM](https://sefcom.asu.edu/) at Arizona State University, mainly advised by [Dr. Tiffany Bao](https://www.tiffanybao.com/). I also work with [Dr. Adam Doupé](https://adamdoupe.com/), [Dr. Fish Wang](https://ruoyuwang.me/), and [Dr. Yan Shoshitaishvili](https://yancomm.net). 
-My research interests are focused on data-driven security, particularly the integration of program analysis with machine learning techniques to solve security problems while maintaining generalizability and scalability.  
-Moreover, I am also interested in  exploring the development of trustworthy AI and adversarial machine learning, which have become increasingly significant in our current era of AI advancement.
+
+My research interests are focused on data-driven security, particularly the integration of program analysis with machine learning techniques to solve security problems while maintaining generalizability and scalability.
+
+Moreover, I am also interested in exploring the development of trustworthy AI and adversarial machine learning, which have become increasingly significant in our current era of AI advancement.
 
 Education
 ======
